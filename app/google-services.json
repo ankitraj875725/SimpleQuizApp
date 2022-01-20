@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889651097756",
+    "project_id": "simplequizapp-56306",
+    "storage_bucket": "simplequizapp-56306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889651097756:android:301ecf286a73f53246fd59",
+        "android_client_info": {
+          "package_name": "com.example.simplequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889651097756-4hv857613cigbp02sn44aus6qhhufa7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JVQ4xeozGCvgezKJIvXWu013orLXjt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889651097756-4hv857613cigbp02sn44aus6qhhufa7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

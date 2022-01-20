@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleQuizApp</string>
+    <string-array name="topics">
+        <item name="General">General</item>
+        <item name="General">Java</item>
+        <item name="General">Data Structures</item>
+        <item name="General">Android Dev</item>
+    </string-array>
+</resources>
